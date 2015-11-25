@@ -34,7 +34,7 @@ def del_digit(x, n):
 		i += 1
 
 	return new
-#Testing del_digit(x,n) 
+#Testing del_digit(x,n)
 #print del_digit(547, 3)
 
 def isPrime(x):
